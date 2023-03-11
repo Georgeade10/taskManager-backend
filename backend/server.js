@@ -16,7 +16,7 @@ app.use(
   cors({
     origin: [
       'http://localhost:3000',
-      'https://task-manager-fullstack.render.com',
+      'https://task-manager-fullstack.onrender.com',
     ],
   })
 );
